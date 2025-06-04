@@ -780,6 +780,9 @@ LittlerootTown_ProfessorBirchsLab_Text_CatchCutePokemonWithPokeBalls:
 	.string "Sobald ich niedliche POKéMON entdecke,\n"
 	.string "fange ich sie mit POKéBÄLLen.$"
 
+LittlerootTown_ProfessorBirchsLab_Text_HeyYourBagsFull:
+	.string "Oh! Dein BEUTEL ist voll.$"
+
 LittlerootTown_ProfessorBirchsLab_Text_OhYourBagsFull:
 	.string "Oh! Dein BEUTEL ist voll.$"
 

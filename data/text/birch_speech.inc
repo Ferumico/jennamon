@@ -26,7 +26,7 @@ gText_Birch_MainSpeech::
 	.string "Es gibt noch viele, viele Geheim-\n"
 	.string "nisse um die POKéMON.\p"
 	.string "Um die Mysterien der POKéMON\n"
-	.string "aufzudecken, widme ich mich der.\l"
+	.string "aufzudecken, widme ich mich der\l"
 	.string "Forschung. Genau das tue ich.\p"
 	.string "$"
 
